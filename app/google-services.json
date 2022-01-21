@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "287845074162",
+    "project_id": "blogapp-fe4c6",
+    "storage_bucket": "blogapp-fe4c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287845074162:android:8b23d13c3386d75e797c6b",
+        "android_client_info": {
+          "package_name": "com.platzi.blogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287845074162-82ibj7uvti4g1sumj8ibd2gq7nts9qk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKBr1-0JMZq7HbDSzWV1HqaeGSGaDEkAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287845074162-82ibj7uvti4g1sumj8ibd2gq7nts9qk6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
