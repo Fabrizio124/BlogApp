@@ -49,8 +49,10 @@ dependencies {
 
 
     //Firebase
-    implementation 'com.google.firebase:firebase-firestore:22.0.1'
-    implementation 'com.google.firebase:firebase-storage:19.2.1'
+    implementation 'com.google.firebase:firebase-firestore:22.0.2'
+    //implementation 'com.google.firebase:firebase-storage:20.0.1'
+    //implementation 'com.google.firebase:firebase-bom:29.3.0'
+    implementation 'com.google.firebase:firebase-auth-ktx:21.0.3'
 
     //Navigation
     implementation "androidx.navigation:navigation-fragment-ktx:2.3.3"
@@ -60,6 +62,10 @@ dependencies {
     implementation 'de.hdodenhof:circleimageview:2.1.0'
     implementation "com.github.bumptech.glide:glide:4.11.0"
     implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation 'com.google.firebase:firebase-database:20.0.4'
+    implementation 'com.google.firebase:firebase-database-ktx:20.0.4'
+    implementation 'com.google.firebase:firebase-firestore-ktx:24.1.1'
+
     annotationProcessor 'com.github.bumptech.glide:compiler:4.11.0'
 
     // Viewmodel and livedata KTX
